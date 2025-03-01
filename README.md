@@ -1,1 +1,1 @@
-# java-rag-pdf-document-service
+# java-movie-recommendation-service
